@@ -14,6 +14,21 @@
   status = 200
 
 [[redirects]]
+  from = "/icon-192.png"
+  to = "/icon-192.png"
+  status = 200
+
+[[redirects]]
+  from = "/icon-512.png"
+  to = "/icon-512.png"
+  status = 200
+
+[[redirects]]
+  from = "/manifest.json"
+  to = "/manifest.json"
+  status = 200
+
+[[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
